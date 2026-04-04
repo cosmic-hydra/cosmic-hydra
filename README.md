@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/04c62104-9e27-48ef-b6f4-528e930cf939" alt="Advaith Vaithianathan" width="100%" />
+<img src="https://github.com/user-attachments/assets/e7b9cca9-b4c0-463c-8828-85051e87fc01" alt="Advaith Vaithianathan" width="100%" />
 
 <br/>
 
@@ -179,13 +179,28 @@ Maintaining an exceptional GitHub profile with active development across multipl
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/api/?username=cosmic-hydra&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=1d1d1f&text_color=86868b&icon_color=0071e3" alt="GitHub Trophies" width="98%" />
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&rank_icon=github" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-hydra&theme=default&hide_border=true&background=ffffff&stroke=d2d2d7&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&dates=86868b&sideLabels=1d1d1f&currStreakNum=1d1d1f" alt="GitHub Streak" width="48%" />
 
 <br/>
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-hydra&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cosmic-hydra&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&layout=compact" alt="Coding Activity" width="48%" />
+
+<br/>
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmic-hydra&custom_title=Contribution%20Graph&hide_border=true&bg_color=ffffff&color=1d1d1f&line=0071e3&point=0071e3&area=true&area_color=0071e3" alt="Contribution Graph" width="98%" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmic-hydra&theme=default" alt="Profile Details" width="98%" />
 
 </div>
 
@@ -195,7 +210,7 @@ Maintaining an exceptional GitHub profile with active development across multipl
 
 <br/>
 
-## Professional Network
+## Professional Network & Research Credentials
 
 <br/>
 
@@ -207,6 +222,14 @@ Maintaining an exceptional GitHub profile with active development across multipl
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/cosmic-hydra">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0000-2076-3011">
+  <img src="https://img.shields.io/badge/ORCID-0009--0000--2076--3011-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.rdkit.org">
+  <img src="https://img.shields.io/badge/RDKit-Contributor-1F4788?style=for-the-badge&logo=moleculer&logoColor=white" alt="RDKit" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:advaithv.av7@gmail.com">
