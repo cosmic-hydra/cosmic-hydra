@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/e7b9cca9-b4c0-463c-8828-85051e87fc01" alt="Advaith Vaithianathan" width="100%" />
+<br/>
+<br/>
+
+# Advaith Vaithianathan
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=48&duration=2000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=800&height=100&lines=Advaith+Vaithianathan" alt="Advaith Vaithianathan" />
-
-<p style="font-size: 22px; color: 6e6e73; margin-top: -15px;">
+<p style="font-size: 24px; color: #6e6e73; font-weight: 400; letter-spacing: -0.5px;">
 Software Engineer • Full Stack Developer • Tech Innovator
 </p>
+
+<br/>
 
 </div>
 
@@ -19,7 +22,11 @@ Software Engineer • Full Stack Developer • Tech Innovator
 
 <br/>
 
+<div align="center">
+
 ## Think Different. Build Better.
+
+</div>
 
 <br/>
 
@@ -29,19 +36,22 @@ I am **Advaith Vaithianathan**, a software engineer passionate about crafting el
 
 <div align="center">
 
-### Philosophy
+<br/>
 
-Simplicity is the ultimate sophistication. Every line of code should serve a purpose, and every solution should be elegant in its clarity.
+*Simplicity is the ultimate sophistication.*
+Every line of code should serve a purpose, and every solution should be elegant in its clarity.
+
+<br/>
 
 </div>
 
 <br/>
 
----
-
-<br/>
+<div align="center">
 
 ## Expertise
+
+</div>
 
 <br/>
 
@@ -49,40 +59,64 @@ Simplicity is the ultimate sophistication. Every line of code should serve a pur
 <tr>
 <td align="center" width="50%">
 
-### Frontend Development
-Building intuitive, responsive interfaces<br/>that users love
+<br/>
 
-**React** • **Vue.js** • **Next.js**<br/>
-**TypeScript** • **TailwindCSS**
+**Frontend Development**
+
+Building intuitive, responsive interfaces that users love
+
+<br/>
+
+React • Vue.js • Next.js • TypeScript • TailwindCSS
+
+<br/>
 
 </td>
 <td align="center" width="50%">
 
-### Backend Engineering
-Architecting scalable, robust<br/>server-side solutions
+<br/>
 
-**Node.js** • **Python** • **Go**<br/>
-**GraphQL** • **REST APIs**
+**Backend Engineering**
+
+Architecting scalable, robust server-side solutions
+
+<br/>
+
+Node.js • Python • Go • GraphQL • REST APIs
+
+<br/>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### Cloud & DevOps
-Deploying infrastructure that scales<br/>with confidence
+<br/>
 
-**AWS** • **Docker** • **Kubernetes**<br/>
-**CI/CD** • **Terraform**
+**Cloud & DevOps**
+
+Deploying infrastructure that scales with confidence
+
+<br/>
+
+AWS • Docker • Kubernetes • CI/CD • Terraform
+
+<br/>
 
 </td>
 <td align="center" width="50%">
 
-### Data & AI
-Leveraging data-driven insights<br/>and intelligent systems
+<br/>
 
-**Machine Learning** • **Data Analytics**<br/>
-**PostgreSQL** • **MongoDB**
+**Data & AI**
+
+Leveraging data-driven insights and intelligent systems
+
+<br/>
+
+Machine Learning • Data Analytics • PostgreSQL • MongoDB
+
+<br/>
 
 </td>
 </tr>
@@ -90,11 +124,11 @@ Leveraging data-driven insights<br/>and intelligent systems
 
 <br/>
 
----
-
-<br/>
+<div align="center">
 
 ## Featured Work
+
+</div>
 
 <br/>
 
@@ -104,20 +138,35 @@ Leveraging data-driven insights<br/>and intelligent systems
 <tr>
 <td width="33%" align="center">
 
-### 🚀 Innovation
-Building next-generation<br/>applications with cutting-edge<br/>technologies
+<br/>
+
+🚀 **Innovation**
+
+Building next-generation applications with cutting-edge technologies
+
+<br/>
 
 </td>
 <td width="33%" align="center">
 
-### 🎯 Precision
-Delivering pixel-perfect<br/>implementations with<br/>attention to detail
+<br/>
+
+🎯 **Precision**
+
+Delivering pixel-perfect implementations with attention to detail
+
+<br/>
 
 </td>
 <td width="33%" align="center">
 
-### ⚡️ Performance
-Optimizing for speed,<br/>efficiency, and exceptional<br/>user experience
+<br/>
+
+⚡️ **Performance**
+
+Optimizing for speed, efficiency, and exceptional user experience
+
+<br/>
 
 </td>
 </tr>
@@ -127,20 +176,23 @@ Optimizing for speed,<br/>efficiency, and exceptional<br/>user experience
 
 <br/>
 
----
-
-<br/>
+<div align="center">
 
 ## Tech Stack
+
+</div>
 
 <br/>
 
 <div align="center">
 
+<br/>
+
 **Languages**
 
 JavaScript • TypeScript • Python • Java • Go • C++
 
+<br/>
 <br/>
 
 **Frameworks & Libraries**
@@ -148,39 +200,43 @@ JavaScript • TypeScript • Python • Java • Go • C++
 React • Vue.js • Node.js • Express • Django • FastAPI • Next.js
 
 <br/>
+<br/>
 
 **Databases**
 
 PostgreSQL • MongoDB • Redis • MySQL • DynamoDB
 
 <br/>
+<br/>
 
 **Cloud & Tools**
 
 AWS • Azure • Docker • Kubernetes • Git • Linux • Jenkins
 
+<br/>
+
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Performance
 
 <br/>
 
 <div align="center">
 
-### Consistently High Contribution Score
+## GitHub Performance
+
+</div>
+
+<br/>
+
+<div align="center">
 
 Maintaining an exceptional GitHub profile with active development across multiple projects and technologies.
 
 <br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/api/?username=cosmic-hydra&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=1d1d1f&text_color=86868b&icon_color=0071e3" alt="GitHub Trophies" width="98%" />
 
+<br/>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&rank_icon=github" alt="GitHub Stats" width="48%" />
@@ -206,11 +262,11 @@ Maintaining an exceptional GitHub profile with active development across multipl
 
 <br/>
 
----
+<div align="center">
 
-<br/>
+## Connect
 
-## Professional Network & Research Credentials
+</div>
 
 <br/>
 
@@ -240,14 +296,13 @@ Maintaining an exceptional GitHub profile with active development across multipl
 
 <br/>
 
----
+<div align="center">
 
 <br/>
 
-<div align="center">
+*Innovation distinguishes between a leader and a follower.*
 
-### Innovation distinguishes between a leader and a follower.
-
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=cosmic-hydra&color=0071e3&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -255,7 +310,7 @@ Maintaining an exceptional GitHub profile with active development across multipl
 <br/>
 <br/>
 
-© 2026 Advaith Vaithianathan. Designed with purpose.
+© 2026 Advaith Vaithianathan
 
 </div>
 
