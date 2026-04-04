@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=56&duration=2000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=800&height=120&lines=Advaith+Vaithianathan" alt="Advaith Vaithianathan" />
+<img src="https://github.com/user-attachments/assets/04c62104-9e27-48ef-b6f4-528e930cf939" alt="Advaith Vaithianathan" width="100%" />
 
-<p style="font-size: 24px; color: 6e6e73; margin-top: -20px;">
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=48&duration=2000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=800&height=100&lines=Advaith+Vaithianathan" alt="Advaith Vaithianathan" />
+
+<p style="font-size: 22px; color: 6e6e73; margin-top: -15px;">
 Software Engineer • Full Stack Developer • Tech Innovator
 </p>
 
@@ -19,7 +23,7 @@ Software Engineer • Full Stack Developer • Tech Innovator
 
 <br/>
 
-I'm **Advaith Vaithianathan**, a software engineer passionate about crafting elegant solutions to complex problems. With expertise spanning full-stack development, cloud architecture, and emerging technologies, I transform ideas into reality through clean code and thoughtful design.
+I am **Advaith Vaithianathan**, a software engineer passionate about crafting elegant solutions to complex problems. With expertise spanning full-stack development, cloud architecture, and emerging technologies, I transform ideas into reality through clean code and thoughtful design. My GitHub profile demonstrates consistently high performance with strong contributions across multiple repositories and technologies.
 
 <br/>
 
@@ -27,7 +31,7 @@ I'm **Advaith Vaithianathan**, a software engineer passionate about crafting ele
 
 ### Philosophy
 
-**Simplicity is the ultimate sophistication.**
+Simplicity is the ultimate sophistication. Every line of code should serve a purpose, and every solution should be elegant in its clarity.
 
 </div>
 
@@ -163,13 +167,19 @@ AWS • Azure • Docker • Kubernetes • Git • Linux • Jenkins
 
 <br/>
 
-## GitHub Activity
+## GitHub Performance
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3" alt="GitHub Stats" width="48%" />
+### Consistently High Contribution Score
+
+Maintaining an exceptional GitHub profile with active development across multiple projects and technologies.
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&rank_icon=github" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-hydra&theme=default&hide_border=true&background=ffffff&stroke=d2d2d7&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&dates=86868b&sideLabels=1d1d1f&currStreakNum=1d1d1f" alt="GitHub Streak" width="48%" />
 
 <br/>
@@ -199,7 +209,7 @@ AWS • Azure • Docker • Kubernetes • Git • Linux • Jenkins
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:advaith.v@example.com">
+<a href="mailto:advaithv.av7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -222,7 +232,7 @@ AWS • Azure • Docker • Kubernetes • Git • Linux • Jenkins
 <br/>
 <br/>
 
-**© 2026 Advaith Vaithianathan. Designed with purpose.**
+© 2026 Advaith Vaithianathan. Designed with purpose.
 
 </div>
 
