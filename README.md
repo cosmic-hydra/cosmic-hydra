@@ -1,186 +1,229 @@
 <div align="center">
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Advaith+Vaithianathan;Full+Stack+Developer+%F0%9F%92%BB;Hacker+%7C+Builder+%7C+Creator+%F0%9F%9A%80;Welcome+to+my+GitHub!+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=56&duration=2000&pause=1000&color=1D1D1F&center=true&vCenter=true&width=800&height=120&lines=Advaith+Vaithianathan" alt="Advaith Vaithianathan" />
+
+<p style="font-size: 24px; color: 6e6e73; margin-top: -20px;">
+Software Engineer • Full Stack Developer • Tech Innovator
+</p>
 
 </div>
+
+<br/>
+<br/>
 
 ---
 
+<br/>
+
+## Think Different. Build Better.
+
+<br/>
+
+I'm **Advaith Vaithianathan**, a software engineer passionate about crafting elegant solutions to complex problems. With expertise spanning full-stack development, cloud architecture, and emerging technologies, I transform ideas into reality through clean code and thoughtful design.
+
+<br/>
+
 <div align="center">
 
-### 🔥 **`> Initializing hacker mode...`** 🔥
+### Philosophy
+
+**Simplicity is the ultimate sophistication.**
 
 </div>
 
-```ascii
-    ___    ____  _    _____    __________  __
-   /   |  / __ \| |  / /   |  /  _/_  __/ / /_
-  / /| | / / / /| | / / /| |  / /  / /   / __ \
- / ___ |/ /_/ / | |/ / ___ |_/ /  / /   / / / /
-/_/  |_/_____/  |___/_/  |_/___/ /_/   /_/ /_/
-
-[████████████████████████████████] 100% - System Ready
-```
+<br/>
 
 ---
 
-<div align="center">
+<br/>
 
-## 🚀 **About Me** | `whoami`
+## Expertise
 
-```bash
-$ cat about.txt
-```
+<br/>
 
-</div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-👨‍💻 **Coder** | 🛡️ **Security Enthusiast** | 🌐 **Open Source Contributor**
+### Frontend Development
+Building intuitive, responsive interfaces<br/>that users love
 
-```javascript
-const advaith = {
-    location: "Earth 🌍",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "Java", "C++", "Go"],
-    interests: ["AI/ML", "Cybersecurity", "Web3", "Cloud Computing"],
-    challenge: "Building innovative solutions to complex problems",
-    funFact: "I debug in my dreams 💭"
-};
-```
+**React** • **Vue.js** • **Next.js**<br/>
+**TypeScript** • **TailwindCSS**
 
----
+</td>
+<td align="center" width="50%">
 
-<div align="center">
+### Backend Engineering
+Architecting scalable, robust<br/>server-side solutions
 
-## 📊 **GitHub Analytics** | `git stats`
+**Node.js** • **Python** • **Go**<br/>
+**GraphQL** • **REST APIs**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF)
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cosmic-hydra&theme=radical&hide_border=true&background=0D1117&stroke=00F700&ring=00F700&fire=FF6D00&currStreakLabel=00F700)
+### Cloud & DevOps
+Deploying infrastructure that scales<br/>with confidence
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-hydra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF)
+**AWS** • **Docker** • **Kubernetes**<br/>
+**CI/CD** • **Terraform**
 
-</div>
+</td>
+<td align="center" width="50%">
 
----
+### Data & AI
+Leveraging data-driven insights<br/>and intelligent systems
 
-<div align="center">
+**Machine Learning** • **Data Analytics**<br/>
+**PostgreSQL** • **MongoDB**
 
-## 🛠️ **Tech Stack** | `ls -la ~/skills/`
+</td>
+</tr>
+</table>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+<br/>
 
 ---
 
+<br/>
+
+## Featured Work
+
+<br/>
+
 <div align="center">
 
-## 📈 **Activity Graph** | `git log --graph`
+<table>
+<tr>
+<td width="33%" align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmic-hydra&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F700&line=00F700&point=FFFFFF)](https://github.com/cosmic-hydra)
+### 🚀 Innovation
+Building next-generation<br/>applications with cutting-edge<br/>technologies
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 Precision
+Delivering pixel-perfect<br/>implementations with<br/>attention to detail
+
+</td>
+<td width="33%" align="center">
+
+### ⚡️ Performance
+Optimizing for speed,<br/>efficiency, and exceptional<br/>user experience
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
+<br/>
+
+## Tech Stack
+
+<br/>
+
 <div align="center">
 
-## 🏆 **GitHub Trophies** | `achievements.unlock()`
+**Languages**
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=cosmic-hydra&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title_color=00F700&text_color=FFFFFF&icon_color=00F700)](https://github.com/ryo-ma/github-profile-trophy)
+JavaScript • TypeScript • Python • Java • Go • C++
+
+<br/>
+
+**Frameworks & Libraries**
+
+React • Vue.js • Node.js • Express • Django • FastAPI • Next.js
+
+<br/>
+
+**Databases**
+
+PostgreSQL • MongoDB • Redis • MySQL • DynamoDB
+
+<br/>
+
+**Cloud & Tools**
+
+AWS • Azure • Docker • Kubernetes • Git • Linux • Jenkins
 
 </div>
+
+<br/>
 
 ---
 
+<br/>
+
+## GitHub Activity
+
+<br/>
+
 <div align="center">
 
-## 🐍 **Contribution Snake** | `while(true) { code(); }`
+<img src="https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmic-hydra&theme=default&hide_border=true&background=ffffff&stroke=d2d2d7&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&dates=86868b&sideLabels=1d1d1f&currStreakNum=1d1d1f" alt="GitHub Streak" width="48%" />
 
-![Snake animation](https://raw.githubusercontent.com/cosmic-hydra/cosmic-hydra/output/github-contribution-grid-snake-dark.svg)
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmic-hydra&custom_title=Contribution%20Graph&hide_border=true&bg_color=ffffff&color=1d1d1f&line=0071e3&point=0071e3&area=true&area_color=0071e3" alt="Contribution Graph" width="98%" />
 
 </div>
+
+<br/>
 
 ---
 
+<br/>
+
+## Professional Network
+
+<br/>
+
 <div align="center">
 
-### 💬 **Random Dev Quote** | `fortune -a`
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://www.linkedin.com/in/advaith-vaithianathan-64a7a8219">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/cosmic-hydra">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:advaith.v@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
-
-## 🤝 **Connect With Me** | `ping -a`
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmic-hydra)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
-```bash
-$ echo "Thanks for visiting! ⭐️ Star my repos if you like them!"
-```
+### Innovation distinguishes between a leader and a follower.
 
-### 👁️ **Profile Views** | `visitor.count++`
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cosmic-hydra&color=00F700&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=cosmic-hydra&color=0071e3&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-</div>
+<br/>
+<br/>
 
----
-
-<div align="center">
-
-### 🎯 **Current Mission**: `Building the future, one commit at a time` 🚀
-
-```
-[=================================>            ] 75% Complete
- └─ Loading next project...
-```
-
-**⚡ "Code is poetry written in logic" ⚡**
+**© 2026 Advaith Vaithianathan. Designed with purpose.**
 
 </div>
+
+<br/>
