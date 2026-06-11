@@ -1,120 +1,114 @@
 <div align="center">
 
-<br/>
-
-<a href="https://www.adv-aith.dev">
-  <img src="https://img.shields.io/badge/🌐%20adv--aith.dev-Visit%20Portfolio-1d1d1f?style=for-the-badge&labelColor=f5f5f7&color=1d1d1f" alt="Portfolio Website" />
-</a>
-
-<br/>
-<br/>
-
-# Advaith Vaithianathan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071e3,100:1d1d1f&height=180&section=header&text=Advaith%20Vaithianathan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20UI%20Engineering%20%C2%B7%20Full%20Stack%20%C2%B7%20Cloud&descSize=16&descAlignY=55" alt="Header" width="100%" />
 
 <br/>
 
 <a href="https://www.adv-aith.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=22&pause=1000&color=86868B&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Cloud+Architect;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=22&pause=1200&color=86868B&center=true&vCenter=true&width=600&lines=Crafting+interfaces+users+love;Design-driven+software+engineering;Pixel-perfect+frontend%2C+rock-solid+backend;Building+for+scale%2C+designing+for+people" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://www.adv-aith.dev">
-  <img src="https://img.shields.io/badge/Portfolio-adv--aith.dev-0071e3?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Portfolio-adv--aith.dev-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/advaith-vaithianathan-64a7a8219">
-  <img src="https://img.shields.io/badge/LinkedIn-advaith--vaithianathan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://orcid.org/0009-0000-2076-3011">
-  <img src="https://img.shields.io/badge/ORCID-0009--0000--2076--3011-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
 </a>
 &nbsp;
 <a href="mailto:advaithv.av7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-advaithv.av7-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=cosmic-hydra&color=0071e3&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/>
 <br/>
 
 </div>
 
----
+<br/>
+
+## About
+
+I'm a software engineer who believes great software is indistinguishable from good design. I specialise in **UI engineering** — design systems, component architecture, accessibility, and motion — backed by deep full-stack and cloud experience, so the interfaces I craft are as reliable as they are refined.
+
+My work spans open-source contributions (including [RDKit](https://www.rdkit.org)), production-grade web applications, cloud infrastructure, and research-grade tooling. The full story lives at **[adv-aith.dev](https://www.adv-aith.dev)**.
+
+- 🎨 **Design-first development** — translating design intent into pixel-perfect, performant interfaces
+- 🧩 **Design systems & component libraries** — reusable, accessible, well-documented UI foundations
+- ⚡ **Performance & polish** — Core Web Vitals, micro-interactions, and motion that feels effortless
+- ☁️ **Full-stack depth** — APIs, data, and cloud-native infrastructure behind every interface
 
 <br/>
 
-<div align="center">
+## Focus Areas
 
-## Think Different. Build Better.
-
-</div>
-
-<br/>
-
-I'm **Advaith Vaithianathan** — a software engineer who believes that great software is indistinguishable from good design. I build across the full stack, from pixel-perfect interfaces to distributed cloud systems, always optimising for clarity, performance, and maintainability.
-
-My work spans open-source contributions (including [RDKit](https://www.rdkit.org)), production-grade web applications, cloud infrastructure, and research-grade tooling. Find the full story at **[adv-aith.dev](https://www.adv-aith.dev)**.
-
-<br/>
-
-<div align="center">
-
-> *Simplicity is the ultimate sophistication.*
-> Every line of code should serve a purpose; every system should be elegant in its clarity.
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## ⚡ Currently Building
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <br/>
 
-🧠 **AI-Powered Tooling**
+🎨 **UI Engineering**
 
-Integrating LLMs into developer workflows to accelerate ideation-to-production cycles
-
-<br/>
-
-</td>
-<td align="center" width="33%">
+Design systems, component libraries, accessibility (WCAG), responsive layouts, and micro-animations
 
 <br/>
 
-🔬 **Cheminformatics**
-
-Contributing to open-source chemistry toolkits — RDKit and beyond
+React · Next.js · TypeScript · TailwindCSS · Framer Motion
 
 <br/>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <br/>
 
-☁️ **Cloud-Native Systems**
+🖥 **Frontend Architecture**
 
-Designing event-driven microservice architectures that scale with zero drama
+Scalable application structure, state management, performance budgets, and Core Web Vitals optimisation
+
+<br/>
+
+Next.js · Vue.js · Vite · Storybook · Testing Library
+
+<br/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<br/>
+
+⚙️ **Backend & APIs**
+
+Robust server-side systems with a focus on observability, reliability, and clean API contracts
+
+<br/>
+
+Node.js · Python · Go · GraphQL · gRPC · REST
+
+<br/>
+
+</td>
+<td align="center" width="50%">
+
+<br/>
+
+☁️ **Cloud & DevOps**
+
+Infrastructure that scales with confidence — GitOps, IaC, and zero-downtime deployments
+
+<br/>
+
+AWS · Docker · Kubernetes · Terraform · GitHub Actions
 
 <br/>
 
@@ -122,23 +116,25 @@ Designing event-driven microservice architectures that scale with zero drama
 </tr>
 </table>
 
-</div>
-
 <br/>
 
----
-
-<br/>
+## Tech Stack
 
 <div align="center">
 
-## 🛠 Tech Stack
+**UI & Frontend**
 
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 <br/>
-
-<div align="center">
 
 **Languages**
 
@@ -149,16 +145,6 @@ Designing event-driven microservice architectures that scale with zero drama
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-<br/>
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 <br/>
 
@@ -198,78 +184,39 @@ Designing event-driven microservice architectures that scale with zero drama
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-## 🏆 Expertise Areas
-
-</div>
-
-<br/>
+## Currently Building
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <br/>
 
-**Frontend Development**
+🎨 **Design Systems**
 
-Building intuitive, responsive interfaces that users love — from design systems to micro-animations
-
-<br/>
-
-React · Next.js · Vue.js · TypeScript · TailwindCSS · Vite
+Composable, accessible component libraries with motion and theming baked in
 
 <br/>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <br/>
 
-**Backend Engineering**
+🧠 **AI-Powered Tooling**
 
-Architecting scalable, robust server-side systems with a focus on observability and reliability
-
-<br/>
-
-Node.js · Python · Go · GraphQL · gRPC · REST
+Integrating LLMs into developer workflows to accelerate ideation-to-production cycles
 
 <br/>
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 <br/>
 
-**Cloud & DevOps**
+🔬 **Cheminformatics**
 
-Deploying infrastructure that scales with confidence — GitOps, IaC, and zero-downtime deployments
-
-<br/>
-
-AWS · Docker · Kubernetes · Terraform · GitHub Actions
-
-<br/>
-
-</td>
-<td align="center" width="50%">
-
-<br/>
-
-**Data & AI**
-
-Transforming raw data into insight — from ML pipelines to cheminformatics and scientific computing
-
-<br/>
-
-PyTorch · PostgreSQL · MongoDB · RDKit · Pandas · NumPy
+Contributing to open-source chemistry toolkits — RDKit and beyond
 
 <br/>
 
@@ -279,24 +226,9 @@ PyTorch · PostgreSQL · MongoDB · RDKit · Pandas · NumPy
 
 <br/>
 
----
-
-<br/>
+## GitHub Insights
 
 <div align="center">
-
-## 📊 GitHub Performance
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/api/?username=cosmic-hydra&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=1d1d1f&text_color=86868b&icon_color=0071e3" alt="GitHub Trophies" width="98%" />
-
-<br/>
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cosmic-hydra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=cosmic-hydra&theme=default&hide_border=true&background=ffffff&stroke=d2d2d7&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&dates=86868b&sideLabels=1d1d1f&currStreakNum=1d1d1f&sideNums=1d1d1f" alt="GitHub Streak" width="48%" />
@@ -305,40 +237,18 @@ PyTorch · PostgreSQL · MongoDB · RDKit · Pandas · NumPy
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-hydra&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&langs_count=10&count_private=true" alt="Top Languages" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cosmic-hydra&theme=default&hide_border=true&bg_color=ffffff&title_color=1d1d1f&text_color=86868b&icon_color=0071e3&layout=compact&langs_count=8" alt="Coding Activity" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cosmic-hydra&theme=default&utcOffset=0" alt="Productive Time" width="48%" />
 
 <br/>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cosmic-hydra&custom_title=Contribution%20Activity&hide_border=true&bg_color=ffffff&color=1d1d1f&line=0071e3&point=0071e3&area=true&area_color=0071e310&radius=6" alt="Contribution Graph" width="98%" />
 
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmic-hydra&theme=default" alt="Profile Details" width="98%" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosmic-hydra&theme=default" alt="Repos Per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosmic-hydra&theme=default" alt="Most Commit Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cosmic-hydra&theme=default&utcOffset=0" alt="Productive Time" width="32%" />
-
 </div>
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-## 🤝 Connect
-
-</div>
-
-<br/>
+## Connect
 
 <div align="center">
 
@@ -354,36 +264,11 @@ PyTorch · PostgreSQL · MongoDB · RDKit · Pandas · NumPy
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="https://orcid.org/0009-0000-2076-3011">
-  <img src="https://img.shields.io/badge/ORCID-0009--0000--2076--3011-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.rdkit.org">
-  <img src="https://img.shields.io/badge/RDKit-Contributor-1F4788?style=for-the-badge&logo=moleculer&logoColor=white" alt="RDKit" />
-</a>
-&nbsp;&nbsp;
 <a href="mailto:advaithv.av7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-</div>
-
 <br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<br/>
-
-> *Innovation distinguishes between a leader and a follower.*
-
-<br/>
-
-**[adv-aith.dev](https://www.adv-aith.dev)** · [LinkedIn](https://www.linkedin.com/in/advaith-vaithianathan-64a7a8219) · [Email](mailto:advaithv.av7@gmail.com)
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=cosmic-hydra&color=0071e3&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -391,8 +276,8 @@ PyTorch · PostgreSQL · MongoDB · RDKit · Pandas · NumPy
 <br/>
 <br/>
 
-© 2026 Advaith Vaithianathan · [adv-aith.dev](https://www.adv-aith.dev)
+> *Simplicity is the ultimate sophistication.*
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1d1f,100:0071e3&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
