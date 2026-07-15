@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">03 — Technical stack</title><desc id="desc">Tools used across interfaces, systems, data, and infrastructure.</desc>
+  <style>
+    .mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,monospace}.row{opacity:0;animation:row .6s ease forwards}.r2{animation-delay:.12s}.r3{animation-delay:.24s}.r4{animation-delay:.36s}
+    .bar{transform:scaleX(0);transform-origin:left;animation:bar .8s ease forwards}@keyframes row{to{opacity:1}}@keyframes bar{to{transform:scaleX(1)}}@media(prefers-reduced-motion:reduce){.row,.bar{animation:none;opacity:1;transform:none}}
+    @media(prefers-color-scheme:dark){[fill="#1d1d1f"]{fill:#f5f5f7}[fill="#86868b"]{fill:#9b9ba0}[stroke="#d2d2d7"]{stroke:#30363d}}
+  </style>
+  <text class="mono" x="30" y="58" fill="#0071e3" font-size="13" letter-spacing="5">03 / SYSTEM STACK</text>
+  <line x1="255" y1="53" x2="970" y2="53" stroke="#d2d2d7"/><text class="mono" x="970" y="42" fill="#86868b" font-size="10" text-anchor="end" letter-spacing="2">~/toolchain</text>
+  <line x1="204" y1="91" x2="204" y2="294" stroke="#d2d2d7"/>
+
+  <g class="mono row">
+    <text x="30" y="116" fill="#86868b" font-size="11" letter-spacing="2">INTERFACE</text><rect class="bar" x="176" y="104" width="12" height="12" fill="#0071e3"/>
+    <text x="230" y="116" fill="#1d1d1f" font-size="15">React · Next.js · TypeScript · Vue · Tailwind · Storybook · Figma</text>
+  </g>
+  <g class="mono row r2">
+    <text x="30" y="169" fill="#86868b" font-size="11" letter-spacing="2">SYSTEMS</text><rect class="bar" x="176" y="157" width="12" height="12" fill="#0071e3"/>
+    <text x="230" y="169" fill="#1d1d1f" font-size="15">Node.js · Python · Go · Rust · Swift · REST · GraphQL · gRPC</text>
+  </g>
+  <g class="mono row r3">
+    <text x="30" y="222" fill="#86868b" font-size="11" letter-spacing="2">DATA + AI</text><rect class="bar" x="176" y="210" width="12" height="12" fill="#0071e3"/>
+    <text x="230" y="222" fill="#1d1d1f" font-size="15">PostgreSQL · MongoDB · Redis · DynamoDB · PyTorch · Pandas</text>
+  </g>
+  <g class="mono row r4">
+    <text x="30" y="275" fill="#86868b" font-size="11" letter-spacing="2">DELIVERY</text><rect class="bar" x="176" y="263" width="12" height="12" fill="#0071e3"/>
+    <text x="230" y="275" fill="#1d1d1f" font-size="15">AWS · Azure · Docker · Kubernetes · Terraform · GitHub Actions</text>
+  </g>
+</svg>
