@@ -12,6 +12,10 @@
 </div>
 
 <picture>
+  <img src="assets/portrait-ascii.svg" width="100%" alt="Animated ASCII portrait of Advaith rendered in a terminal interface">
+</picture>
+
+<picture>
   <img src="assets/about.svg" width="100%" alt="About Advaith — UI engineering, full-stack systems, cloud, and open source">
 </picture>
 
