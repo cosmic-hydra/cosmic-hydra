@@ -1,0 +1,120 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 680 820"
+  fill="none"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Advaith Vaithianathan</title>
+  <desc id="description">
+    Software engineer and founder building verifiable AI systems, quantitative infrastructure, and scientific tools.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="24" y1="16" x2="656" y2="804" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07120F"/>
+      <stop offset="0.5" stop-color="#081713"/>
+      <stop offset="1" stop-color="#061113"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="38" y1="34" x2="640" y2="790" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173229" stop-opacity="0.74"/>
+      <stop offset="0.5" stop-color="#0D211B" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#081512" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="glassBorder" x1="24" y1="24" x2="656" y2="796" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8FFEB" stop-opacity="0.3"/>
+      <stop offset="0.42" stop-color="#70E7AC" stop-opacity="0.13"/>
+      <stop offset="0.78" stop-color="#00E85A" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#D8FFEB" stop-opacity="0.08"/>
+    </linearGradient>
+    <radialGradient id="greenBloom" cx="0" cy="0" r="1" gradientTransform="translate(574 108) rotate(125) scale(252)">
+      <stop stop-color="#00E85A" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#00E85A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealBloom" cx="0" cy="0" r="1" gradientTransform="translate(86 722) rotate(-42) scale(250)">
+      <stop stop-color="#00A87A" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00A87A" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="panelShadow" x="-20%" y="-20%" width="140%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <filter id="cellGlow" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#00E85A" flood-opacity="0.55"/>
+    </filter>
+    <pattern id="technicalGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#9DE8C4" stroke-opacity="0.035"/>
+    </pattern>
+
+    <rect id="cell0" width="32" height="32" rx="8" fill="#11241D" stroke="#315045" stroke-opacity="0.42"/>
+    <rect id="cell1" width="32" height="32" rx="8" fill="#005A23" stroke="#078837" stroke-opacity="0.62"/>
+    <rect id="cell2" width="32" height="32" rx="8" fill="#009D3C" stroke="#12C85A" stroke-opacity="0.75"/>
+    <rect id="cell3" width="32" height="32" rx="8" fill="#00E85A" stroke="#8BFFB8" stroke-opacity="0.92"/>
+
+    <style>
+      .wordmark {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        letter-spacing: -2px;
+      }
+      .ui {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+      .label {
+        font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace;
+        letter-spacing: 1.7px;
+      }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="664" height="804" rx="38" fill="url(#background)"/>
+  <rect x="8.5" y="8.5" width="663" height="803" rx="37.5" stroke="#B8F6D7" stroke-opacity="0.11"/>
+  <rect x="9" y="9" width="662" height="802" rx="37" fill="url(#technicalGrid)"/>
+  <ellipse cx="574" cy="108" rx="250" ry="242" fill="url(#greenBloom)"/>
+  <ellipse cx="86" cy="722" rx="248" ry="228" fill="url(#tealBloom)"/>
+
+  <g filter="url(#panelShadow)">
+    <rect x="24" y="24" width="632" height="396" rx="30" fill="url(#glass)"/>
+    <rect x="24.5" y="24.5" width="631" height="395" rx="29.5" stroke="url(#glassBorder)"/>
+    <path d="M56 25H498" stroke="#E4FFF0" stroke-opacity="0.18"/>
+  </g>
+
+  <circle cx="59" cy="64" r="5" fill="#00E85A" filter="url(#cellGlow)"/>
+  <text class="label" x="75" y="70" fill="#A9BDB6" font-size="13">COSMIC-HYDRA / PROFILE</text>
+  <text class="label" x="622" y="70" fill="#708A81" font-size="11" text-anchor="end">BLR · IN</text>
+
+  <text class="label" x="58" y="120" fill="#00D855" font-size="16">SOFTWARE ENGINEER · FOUNDER</text>
+  <text class="wordmark" x="56" y="196" fill="#F2F7F5" font-size="68" font-weight="700">Advaith</text>
+  <text class="wordmark" x="56" y="263" fill="#F2F7F5" font-size="60" font-weight="400">Vaithianathan</text>
+
+  <text class="ui" x="58" y="316" fill="#DDE9E4" font-size="30" font-weight="500">
+    Building verifiable AI systems,
+  </text>
+  <text class="ui" x="58" y="351" fill="#A9BDB6" font-size="30" font-weight="400">
+    quantitative infrastructure,
+  </text>
+  <text class="ui" x="58" y="386" fill="#A9BDB6" font-size="30" font-weight="400">
+    and scientific tools.
+  </text>
+
+  <g filter="url(#panelShadow)">
+    <rect x="24" y="440" width="632" height="356" rx="30" fill="url(#glass)"/>
+    <rect x="24.5" y="440.5" width="631" height="355" rx="29.5" stroke="url(#glassBorder)"/>
+    <path d="M56 441H498" stroke="#E4FFF0" stroke-opacity="0.16"/>
+  </g>
+
+  <text class="label" x="58" y="483" fill="#A9BDB6" font-size="14">BUILD SIGNAL / CURRENT</text>
+  <circle cx="620" cy="478" r="4" fill="#00E85A"/>
+  <circle cx="620" cy="478" r="9" stroke="#00E85A" stroke-opacity="0.2"/>
+
+  <g aria-label="Decorative contribution-style activity grid">
+    <use href="#cell0" x="170" y="518"/><use href="#cell1" x="214" y="518"/><use href="#cell2" x="258" y="518"/><use href="#cell0" x="302" y="518"/><use href="#cell1" x="346" y="518"/><use href="#cell3" x="390" y="518" filter="url(#cellGlow)"/><use href="#cell1" x="434" y="518"/><use href="#cell0" x="478" y="518"/>
+    <use href="#cell1" x="170" y="562"/><use href="#cell2" x="214" y="562"/><use href="#cell0" x="258" y="562"/><use href="#cell1" x="302" y="562"/><use href="#cell2" x="346" y="562"/><use href="#cell1" x="390" y="562"/><use href="#cell0" x="434" y="562"/><use href="#cell2" x="478" y="562"/>
+    <use href="#cell0" x="170" y="606"/><use href="#cell1" x="214" y="606"/><use href="#cell3" x="258" y="606" filter="url(#cellGlow)"/><use href="#cell1" x="302" y="606"/><use href="#cell0" x="346" y="606"/><use href="#cell2" x="390" y="606"/><use href="#cell1" x="434" y="606"/><use href="#cell3" x="478" y="606" filter="url(#cellGlow)"/>
+    <use href="#cell2" x="170" y="650"/><use href="#cell1" x="214" y="650"/><use href="#cell0" x="258" y="650"/><use href="#cell2" x="302" y="650"/><use href="#cell1" x="346" y="650"/><use href="#cell0" x="390" y="650"/><use href="#cell2" x="434" y="650"/><use href="#cell1" x="478" y="650"/>
+    <use href="#cell0" x="170" y="694"/><use href="#cell2" x="214" y="694"/><use href="#cell1" x="258" y="694"/><use href="#cell3" x="302" y="694" filter="url(#cellGlow)"/><use href="#cell1" x="346" y="694"/><use href="#cell2" x="390" y="694"/><use href="#cell1" x="434" y="694"/><use href="#cell0" x="478" y="694"/>
+  </g>
+
+  <line x1="58" y1="754" x2="622" y2="754" stroke="#B8F6D7" stroke-opacity="0.1"/>
+  <text class="ui" x="58" y="780" fill="#DDE9E4" font-size="18" font-weight="500">Agents</text>
+  <text class="ui" x="340" y="780" fill="#DDE9E4" font-size="18" font-weight="500" text-anchor="middle">Markets</text>
+  <text class="ui" x="622" y="780" fill="#DDE9E4" font-size="18" font-weight="500" text-anchor="end">Science</text>
+</svg>
